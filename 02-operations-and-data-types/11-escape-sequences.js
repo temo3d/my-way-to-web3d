@@ -1,0 +1,1 @@
+console.log("Use \"\\n\"\ to separate lines" + "\n" + 'Example: console.log("line1\\nline2")');
